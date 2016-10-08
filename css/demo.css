@@ -1406,33 +1406,31 @@ z-index: 3;
 	margin-bottom: 1px;
 }
 .one{
-	width: 258px;
-	height: 178px;
-    
+	width: 260px;
+	height: 180px;
+
 	float: left;
-    border:1px solid #eee;
+
 	overflow: hidden;
 }
 .two{
-	width: 258px;
-	height: 178px;
+	width: 260px;
+	height: 180px;
 	overflow: hidden;
 	float: left;
-	margin-left: 1px;border:1px solid #eee;
 }
 .three{
-	width: 258px;
-	height: 178px;
+	width: 260px;
+	height: 180px;
 	overflow: hidden;
-	float: left;border:1px solid #eee;
+	float: left;
 
 }
 .four{
-	width: 258px;
-	height: 178px;
+	width: 260px;
+	height: 180px;
 	overflow: hidden;
 	float: left;
-	margin-left: 1px;border:1px solid #eee;
 
 }
 .left{
